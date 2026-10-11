@@ -45,11 +45,11 @@ I enjoy turning ideas into practical projects and exploring how AI, automation, 
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,html,css,cpp&theme=dark" />
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
@@ -85,8 +85,6 @@ A Telegram bot project focused on interactive features and user engagement.
 
 <div align="center">
 
-<!-- MAIN STATS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakibulhussain7836-art&show_icons=true&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=C9D1D9&icon_color=BF00FF&ring_color=00F7FF&include_all_commits=true&rank_icon=github" />
 
 <!-- LANGUAGE STATS -->
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhussain7836-art&layout=donut&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=C9D1D9" />
@@ -98,15 +96,7 @@ A Telegram bot project focused on interactive features and user engagement.
 
 </div>
 
-## 📈 Contribution Activity
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rakibulhussain7836-art&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
-
----
 
 
 ## 🎯 Current Goals
