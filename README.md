@@ -55,15 +55,7 @@ I enjoy turning ideas into practical projects and exploring how AI, automation, 
 
 ---
 
-## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/rakibulhussain7836-art">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakibulhussain7836-art&repo=TalkNHappyBot&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ### 🤖 AI Assistant — Friday
 
@@ -81,20 +73,8 @@ A Telegram bot project focused on interactive features and user engagement.
 
 ---
 
-## ⚡ GITHUB STATISTICS
-
-<div align="center">
 
 
-<!-- LANGUAGE STATS -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhussain7836-art&layout=donut&hide_border=true&bg_color=050816&title_color=00F7FF&text_color=C9D1D9" />
-
-<br/><br/>
-
-<!-- STREAK STATS -->
-<img width="75%" src="https://streak-stats.demolab.com/?user=rakibulhussain7836-art&hide_border=true&background=050816&ring=BF00FF&fire=00F7FF&currStreakLabel=00F7FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=00F7FF&dates=777777" />
-
-</div>
 
 
 
@@ -114,8 +94,8 @@ A Telegram bot project focused on interactive features and user engagement.
 
 <br/><br/>
 
-### ⭐ Thanks for visiting my profile!
+### ⭐ Thanks you for visiting my profile!
 
-**Code. Learn. Build. Repeat.** 🚀
+**Code🚀
 
 </div>
