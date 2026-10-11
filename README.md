@@ -79,15 +79,6 @@ A Telegram bot project focused on interactive features and user engagement.
 
 
 
-## 🎯 Current Goals
-
-- [ ] Build a reliable voice-controlled AI assistant.
-- [ ] Improve my Python programming skills.
-- [ ] Develop useful Telegram bots.
-- [ ] Learn more about AI agents and machine learning.
-- [ ] Contribute to open-source projects.
-
----
 
 
 <img src="https://komarev.com/ghpvc/?username=rakibulhussain7836-art&style=for-the-badge&color=blueviolet" alt="Profile views" />
