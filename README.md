@@ -33,6 +33,13 @@ I'm a B.Tech AI/ML student passionate about programming, automation, and buildin
 > *"Great things are built one line of code at a time."*
 
 <br/>
+## 👾 CONTRIBUTION GAME
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/rakibulhussain7836-art/rakibulhussain7836-art/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph"/>
+
+</div>
 ## ⚡ GITHUB ANALYTICS
 
 <div align="center">
