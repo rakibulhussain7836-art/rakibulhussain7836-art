@@ -110,3 +110,20 @@ Thanks for visiting my profile! 👋
 **Let's learn, build, and grow together.** 🚀
 
 </div>
+---
+
+<h2 align="center">🎮 My GitHub Contribution Game</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/rakibulhussain7836-art/rakibulhussain7836-art/output/pacman-contribution-graph-dark.svg"
+    alt="Pac-Man GitHub Contribution Game"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>👾 Every contribution keeps the game going!</i>
+</p>
+
+---
