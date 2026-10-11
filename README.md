@@ -107,15 +107,6 @@ A Telegram bot project focused on interactive features and user engagement.
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/rakibulhussain7836-art/rakibulhussain7836-art/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" width="100%" />
-
-</div>
-
----
 
 ## 🎯 Current Goals
 
@@ -127,19 +118,6 @@ A Telegram bot project focused on interactive features and user engagement.
 
 ---
 
-## 🤝 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/rakibulhussain7836-art">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.python.org/">
-<img src="https://img.shields.io/badge/Learning-Python-3776AB?style=for-the-badge&logo=python" />
-</a>
-
-<br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=rakibulhussain7836-art&style=for-the-badge&color=blueviolet" alt="Profile views" />
 
