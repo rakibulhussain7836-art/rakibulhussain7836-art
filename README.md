@@ -1,75 +1,112 @@
-<!-- FUTURISTIC DEVELOPER INTRO -->
-
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080808,50:301080,100:00D4FF&height=200&section=header&text=RAKIBUL%20HUSSAIN&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20PYTHON%20%7C%20TECH%20ENTHUSIAST&descAlignY=58&descSize=16"/>
+# Hey there, I'm Rakibul Hussain! 👋
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2500&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rakibul+Hussain;AI%2FML+Student;Python+%7C+C%2B%2B+%7C+C+%7C+HTML;Building+Friday+AI+Assistant;Creating+Telegram+Bots" alt="Typing SVG"/>
+### 💻 AI/ML Student | Python Developer | Tech Enthusiast
+
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Learning+Artificial+Intelligence;Building+Friday+AI+Assistant;Creating+Telegram+Bots;Turning+Ideas+Into+Code" alt="Typing animation" />
+</p>
+
+</div>
+
+---
+
+## 🌟 About Me
+
+Hey! I'm **Rakibul Hussain**, a B.Tech AI/ML student interested in programming, artificial intelligence, and software development.
+
+I enjoy experimenting with new ideas and building projects that solve real problems.
+
+- 🎓 Studying B.Tech in AI/ML at YMCA.
+- 🤖 Developing my personal AI assistant, Friday.
+- 💬 Building Telegram bots.
+- 🐍 Exploring Python and automation.
+- 🧠 Learning about Artificial Intelligence and Machine Learning.
+- 🚀 Always working to improve my programming skills.
+
+---
+
+## 💻 Languages
+
+<div align="left">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,python,html&theme=light" alt="C++, C, Python, HTML"/>
+
+</div>
+
+---
+
+## 🛠️ Tools I Use
+
+<div align="left">
+
+<a href="https://github.com/">
+  <img src="https://skillicons.dev/icons?i=github&theme=light" width="48" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/">
+  <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="48" alt="Visual Studio Code"/>
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 Hey, I'm Rakibul!
+## 🚀 My Projects
 
-<table>
-<tr>
-<td width="58%" valign="top">
+### 🤖 Friday — Personal AI Assistant
 
-### 🚀 About Me
+A personal assistant project focused on voice interaction and desktop automation.
 
-I'm a B.Tech AI/ML student passionate about programming, automation, and building useful technology.
+**Current focus:**
+- 🎙️ Voice-controlled interaction.
+- 🖥️ Desktop automation.
+- ⚡ Building a reliable assistant.
 
-- 🤖 Developing my own AI assistant, Friday.
-- 🐍 Working with Python.
-- 💬 Building Telegram bots.
-- 🧠 Exploring Artificial Intelligence and Machine Learning.
-- ⚡ Learning by building real projects.
+### 💬 TalkNHappyBot
 
-<br/>
+A Telegram bot project focused on interactive features and creating a useful experience for users.
 
-> *"Great things are built one line of code at a time."*
+**Goal:** Build an engaging and user-friendly Telegram bot.
 
-<br/>
-## 👾 CONTRIBUTION GAME
+---
+
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rakibulhussain7836-art/rakibulhussain7836-art/output/pacman-contribution-graph.svg" width="100%" alt="Pac-Man contribution graph"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=rakibulhussain7836-art&show_icons=true&hide_border=true&bg_color=ffffff&title_color=7C3AED&icon_color=7C3AED&text_color=24292F" alt="GitHub statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhussain7836-art&layout=compact&hide_border=true&bg_color=ffffff&title_color=7C3AED&text_color=24292F" alt="Top languages"/>
 
 </div>
-## ⚡ GITHUB ANALYTICS
+
+---
+
+## 🎯 Currently Learning
+
+- 🧠 Artificial Intelligence and Machine Learning.
+- 🐍 Python programming.
+- 🤖 AI assistants and automation.
+- 💻 Software development fundamentals.
+
+---
+
+## 💬 My Motto
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rakibulhussain7836-art&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&icon_color=9D4EDD&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakibulhussain7836-art&layout=donut&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF"/>
-
-<br/><br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=rakibulhussain7836-art&bg_color=0D1117&color=00D4FF&line=9D4EDD&point=FFFFFF&area=true&hide_border=true"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rakibulhussain7836-art&theme=transparent&hide_border=true&background=0D1117&ring=9D4EDD&fire=00D4FF&currStreakLabel=00D4FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=00D4FF&dates=888888"/>
+### "Learn something new. Build something useful. Repeat." ✨
 
 </div>
 
-### 🎯 Current Mission
+---
 
-`LEARN → BUILD → EXPERIMENT → IMPROVE`
+<div align="center">
 
-</td>
+Thanks for visiting my profile! 👋
 
-<td width="42%" align="center" valign="middle">
+**Let's learn, build, and grow together.** 🚀
 
-<!-- BOY-STYLE GITHUB DEVELOPER AVATAR -->
-
-<img src="https://github.com/DenverCoder1/DenverCoder1/raw/output/mascot.png" width="280" alt="Developer mascot"/>
-
-</td>
-</tr>
-</table>
+</div>
