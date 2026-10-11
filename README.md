@@ -5,7 +5,7 @@
 <img src="https://skillicons.dev/icons?i=cpp,c,python,html&theme=dark" />
 
 </div>
-## 🛠️ Tools & Platforms
+
 
 <div align="center">
 
